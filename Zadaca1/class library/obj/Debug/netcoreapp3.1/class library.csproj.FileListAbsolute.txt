@@ -1,0 +1,13 @@
+C:\Users\Tsar\Desktop\random\Zadaca1\class library\bin\Debug\netcoreapp3.1\class library.exe
+C:\Users\Tsar\Desktop\random\Zadaca1\class library\bin\Debug\netcoreapp3.1\class library.deps.json
+C:\Users\Tsar\Desktop\random\Zadaca1\class library\bin\Debug\netcoreapp3.1\class library.runtimeconfig.json
+C:\Users\Tsar\Desktop\random\Zadaca1\class library\bin\Debug\netcoreapp3.1\class library.runtimeconfig.dev.json
+C:\Users\Tsar\Desktop\random\Zadaca1\class library\bin\Debug\netcoreapp3.1\class library.dll
+C:\Users\Tsar\Desktop\random\Zadaca1\class library\bin\Debug\netcoreapp3.1\class library.pdb
+C:\Users\Tsar\Desktop\random\Zadaca1\class library\obj\Debug\netcoreapp3.1\class library.csprojAssemblyReference.cache
+C:\Users\Tsar\Desktop\random\Zadaca1\class library\obj\Debug\netcoreapp3.1\class library.AssemblyInfoInputs.cache
+C:\Users\Tsar\Desktop\random\Zadaca1\class library\obj\Debug\netcoreapp3.1\class library.AssemblyInfo.cs
+C:\Users\Tsar\Desktop\random\Zadaca1\class library\obj\Debug\netcoreapp3.1\class library.csproj.CoreCompileInputs.cache
+C:\Users\Tsar\Desktop\random\Zadaca1\class library\obj\Debug\netcoreapp3.1\class library.dll
+C:\Users\Tsar\Desktop\random\Zadaca1\class library\obj\Debug\netcoreapp3.1\class library.pdb
+C:\Users\Tsar\Desktop\random\Zadaca1\class library\obj\Debug\netcoreapp3.1\class library.genruntimeconfig.cache
